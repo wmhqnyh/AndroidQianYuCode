@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AndroidQianYuCode</string>
+
+    <string name="qianyu_username_test">心爱的小摩托</string>
+    <string name="qianyu_user_content_test">当前文本是用户发的一段话，可以换行的一句话</string>
+    <string name="elder_test">长老</string>
+    <string name="level_value_test">54</string>
+    <string name="label_test">：</string>
+    <string name="invisible_test">Invisible</string>
+</resources>
